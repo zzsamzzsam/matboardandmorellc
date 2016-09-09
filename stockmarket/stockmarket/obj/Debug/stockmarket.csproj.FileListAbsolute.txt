@@ -1,0 +1,6 @@
+C:\Users\WhiteHeart\Documents\Visual Studio 2015\Projects\stockmarket\stockmarket\bin\Debug\stockmarket.exe.config
+C:\Users\WhiteHeart\Documents\Visual Studio 2015\Projects\stockmarket\stockmarket\bin\Debug\stockmarket.exe
+C:\Users\WhiteHeart\Documents\Visual Studio 2015\Projects\stockmarket\stockmarket\bin\Debug\stockmarket.pdb
+C:\Users\WhiteHeart\Documents\Visual Studio 2015\Projects\stockmarket\stockmarket\obj\Debug\stockmarket.csprojResolveAssemblyReference.cache
+C:\Users\WhiteHeart\Documents\Visual Studio 2015\Projects\stockmarket\stockmarket\obj\Debug\stockmarket.exe
+C:\Users\WhiteHeart\Documents\Visual Studio 2015\Projects\stockmarket\stockmarket\obj\Debug\stockmarket.pdb
